@@ -110,8 +110,8 @@ The goal of this project is to demonstrate:
 
 # 🔗 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/your-linkedin-profile
-- GitHub: https://github.com/your-github-username
+- LinkedIn: https://www.linkedin.com/posts/abhishekpakhare_powerbi-dataanalytics-businessintelligence-ugcPost-7462580367137603584-erkH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEJ7QYBM9IGuSUxjFB3DnfHAQVyFrFpynw
+- GitHub: - GitHub: https://github.com/Abhishek-Pakhare2003/Global-Superstore-Data-Analysis-Dashboard
 
 ---
 
