@@ -6,7 +6,7 @@ An interactive **Power BI Dashboard** designed to analyze Global Superstore sale
 
 # 📸 Dashboard Preview
 
-![Dashboard Preview](Screenshots/dashboard.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
