@@ -6,7 +6,7 @@ An interactive **Power BI Dashboard** designed to analyze Global Superstore sale
 
 # 📸 Dashboard Preview
 
-![Dashboard Preview](""C:\Users\ASUS\OneDrive\Desktop\project Pb\Global Superstore Project\Screenshot 2026-05-20 000200.png")
+![Dashboard Preview]("C:\Users\ASUS\OneDrive\Desktop\project Pb\Global Superstore Project\Screenshots\dashboard.png.png")
 
 ---
 
